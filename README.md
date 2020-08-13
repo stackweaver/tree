@@ -1,14 +1,18 @@
-# Full-Stack Web Development Outline
+# Full-Stack Web Development Tree
 
-Below is an ever-evolving nested structure of all aspects of web development. It is always a WIP so as to account for the constant change. For brevity, many technology lists are limited to the most popular and reputable.
+Below is an ever-evolving tree of all aspects of web development. For brevity, many technology lists are limited to the most popular and highly regarded. This will be followed up with other data formats.
 
 The links are safe to click and lead to official resources where possible.
 
 **Why?**
 
-It is being built and integrated into an educational platform for full-stack development called Stackweaver. It is ever-evolving because it will be used and developed internally as the platform is built and grown. It will come to inform the structure of many features on the platform, including the full-stack curriculum, community structure, web docs (similar to MDN).
+There are many disparate sources to help developers navigate through web development. This aims to centralise a useful and comprehensive structure. Below is only an example before it is converted into different data formats for ease of parsing.
+
+Internally, it is being built and integrated into an educational platform for full-stack development called Stackweaver. It is ever-evolving because it will be used and developed as the platform is built and grown. It can also [evolve through PRs](https://github.com/stackweaver/developer-docs/pulls) :) It will come to inform the structure of many features including the full-stack curriculum, web docs (like MDN) and community structure.
 
 If you want to get involved feel free to leave feedback here or: [Discord Server](https://discord.gg/nSAveSC), [Subreddit](https://www.reddit.com/r/Stackweaver), [Twitter](https://twitter.com/stackweaver), [Facebook](https://www.facebook.com/stackweaver).
+
+The hope is that others also find this useful!
 
 Thanks!  
 Damien.
