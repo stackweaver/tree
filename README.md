@@ -1,10 +1,14 @@
-**Hi!**
+# Full-Stack Web Development Outline
 
-This page attempts to aid navigation of web dev by exploring it through a nested structure. It is being built and integrated into an educational platform for full-stack development called Stackweaver ([contact on Discord](https://discord.gg/nSAveSC)).
+**What is this?**
 
-The goal is to do this collaboratively with the community so it makes as few assumptions as possible. It will eventually be enhanced through features such as sandboxes, discussions, collaborative learning and mentoring.
+This page attempts to create a nested structure of all aspects of web development. It will be progressively improved based on community feedback.
 
-I would greatly appreciate any suggestions or feedback on the topics or categories below.
+**Why?**
+
+It is being built and integrated into an educational platform for full-stack development called Stackweaver ([contact on Discord](https://discord.gg/nSAveSC)). This outline is central to how the platform itself will be structured.
+
+It will eventually be enhanced through features such as sandboxes, discussions, collaborative learning and mentoring. 
 
 Note: Some items below can be clicked for related resources (non-biased and official where possible).
 
