@@ -6,7 +6,7 @@ This page attempts to aid navigation of web dev by exploring it through a nested
 
 The goal is to do this collaboratively with the community so it makes as few assumptions as possible. It will eventually be integrated into the platform and enhanced through features such as sandboxes, discussions, collaborative learning and mentoring.
 
-If you have any suggestions or feedback you can use Notion's comment feature on this page.
+I would greatly appreciate any suggestions or feedback.
 
 Note: Some items below can be clicked for related resources (non-biased and official where possible).
 
