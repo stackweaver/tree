@@ -4,9 +4,9 @@
 
 This page attempts to aid navigation of web dev by exploring it through a nested structure. It is being built and integrated into an educational platform for full-stack development called Stackweaver ([contact on Discord](https://discord.gg/nSAveSC)).
 
-The goal is to do this collaboratively with the community so it makes as few assumptions as possible. It will eventually be integrated into the platform and enhanced through features such as sandboxes, discussions, collaborative learning and mentoring.
+The goal is to do this collaboratively with the community so it makes as few assumptions as possible. It will eventually be enhanced through features such as sandboxes, discussions, collaborative learning and mentoring.
 
-I would greatly appreciate any suggestions or feedback.
+I would greatly appreciate any suggestions or feedback on the topics or categories below.
 
 Note: Some items below can be clicked for related resources (non-biased and official where possible).
 
