@@ -104,7 +104,7 @@ Note: Some items below can be clicked for related resources (non-biased and offi
         - XML
         - YAML
         
--Legal
+- Legal
     - Software Licensing
     - Copyright
         
@@ -147,7 +147,7 @@ Note: Some items below can be clicked for related resources (non-biased and offi
         - SCSS
         - LESS
     - Frameworks
-        - Bootstrap
+        - [Bootstrap](https://getbootstrap.com/)
         - Bulma
         - Materialize
         - Semantic UI
@@ -178,9 +178,9 @@ Note: Some items below can be clicked for related resources (non-biased and offi
         - Yarn
     - Universal Applications (React Native)
     - Frameworks
-        - React
-        - Vue
-        - Angular
+        - [React](https://reactjs.org/)
+        - [Vue](https://vuejs.org/)
+        - [Angular](https://angularjs.org/)
     - Testing
         - Jest
         - Cyrpress
@@ -222,21 +222,22 @@ Note: Some items below can be clicked for related resources (non-biased and offi
     - Static site generators
     
 - Frameworks
-    - Python: Django
-    - Ruby: Ruby on Rails
-    - JavaScript: Express
-    - C#: .NET
-    - Java: Spring
+    - Python: [Django](https://www.djangoproject.com/)
+    - Ruby: [Ruby on Rails](https://rubyonrails.org/)
+    - JavaScript: [Express](https://expressjs.com/)
+    - C#: [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
+    - Java: [Spring](https://spring.io/)
+    - PHP: [Laravel](https://laravel.com/)
     
 - Web Servers
-    - Apache
-    - Nginx
+    - [Apache](https://httpd.apache.org/)
+    - [Nginx](https://www.nginx.com/)
     
 - Security
     - Authentication
     - Authorisation
         - Framework
-            - OAuth2
+            - [OAuth2](https://oauth.net/2/)
 
 - Devops
     - Continuous Integration (and Continuous Delivery)
@@ -253,13 +254,16 @@ Note: Some items below can be clicked for related resources (non-biased and offi
     - Caching
     
 - Databases
-    - RDBMSs
-        - PostgreSQL
-        - MySQL
-        - MSSQL
-    - NoSQL
-        - Redis
-        - MongoDB
+    - Relational Database (RDBMS)
+        - [SQLite](https://www.sqlite.org/index.html)
+        - [PostgreSQL](https://www.postgresql.org/)
+        - [MySQL](https://www.mysql.com/)
+        - [MSSQL](https://www.microsoft.com/en-us/sql-server)
+        - [Oracle](https://en.wikipedia.org/wiki/Oracle_Database)
+    - NoSQL/Schemaless
+        - [Redis](https://redis.io/)
+        - [MongoDB](https://www.mongodb.com/)
+        - [ElasticSearch](https://www.elastic.co/)
     - Indexing
     - [Data Warehousing](https://en.wikipedia.org/wiki/Data_warehouse)
     - Tools
@@ -273,26 +277,28 @@ Note: Some items below can be clicked for related resources (non-biased and offi
     
 - Infrastructure
     - Automation
-        - Ansible
-        - Chef
-        - Puppet
-        - Terraform
+        - [Ansible](https://github.com/ansible/ansible)
+        - [Chef](https://github.com/chef/chef)
+        - [Puppet](https://github.com/puppetlabs/puppet)
+        - [Terraform](https://github.com/hashicorp/terraform)
     - Jobs/Workers
         - Job Scheduling
             - [Cron](https://en.wikipedia.org/wiki/Cron)
         - Job Queues
     - Monitoring
     - Containers
+        - Engines
+            - [Docker](https://docs.docker.com/)
         - Orchestrators
-            - Kubernetes
-            - Nomad
-            - Docker Swarm
+            - [Kubernetes](https://kubernetes.io/)
+            - [Nomad](https://www.nomadproject.io/)
+            - [Docker Swarm](https://docs.docker.com/engine/swarm/)
     - Communication
         - Message Queues
         - Message Systems
-            - RabbitMQ
-            - Kafka
-    - ETL (extract, transform, load)
+            - [RabbitMQ](https://www.rabbitmq.com/)
+            - [Kafka](https://kafka.apache.org/)
+    - Extract, Transform, Load (ETL)
     - Logging
     - Performance
         - Load Testing
@@ -306,14 +312,15 @@ Note: Some items below can be clicked for related resources (non-biased and offi
     - Serverless
     - Cloud
         - Platforms
-            - AWS
-            - Google Cloud
-            - Azure
-            - Heroku
+            - [AWS](https://aws.amazon.com/about-aws/)
+            - [Google Cloud](https://cloud.google.com/)
+            - [Azure](https://docs.microsoft.com/en-gb/azure)
+            - [Heroku](https://dashboard.heroku.com/)
+            - [Digital Ocean](https://www.digitalocean.com/)
         - Dedicated Hosting
-            - Hetzner
+            - [Hetzner](https://www.hetzner.com/)
     - Resiliency
-        - Chaos Engineering: [https://en.wikipedia.org/wiki/Chaos_engineering](https://en.wikipedia.org/wiki/Chaos_engineering)
+        - [Chaos Engineering](https://en.wikipedia.org/wiki/Chaos_engineering)
     - Networking
         - Load Balancers
         - DNS
