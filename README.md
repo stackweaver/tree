@@ -4,7 +4,7 @@ This page attempts to create a nested structure of all aspects of web developmen
 
 **Why?**
 
-It is being built and integrated into an educational platform for full-stack development called Stackweaver. This outline is central to how the platform itself will be structured; it will inform a full-stack curriculum and web docs (similar to MDN).
+It is being built and integrated into an educational platform for full-stack development called Stackweaver. This outline is central to how the platform itself will be structured; it will inform the full-stack curriculum, community structure and and web docs (similar to MDN).
 
 It will eventually be enhanced through features such as sandboxes, discussions, collaborative learning and mentoring. 
 
