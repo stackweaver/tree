@@ -10,7 +10,7 @@ It is being built and integrated into an educational platform for full-stack dev
 
 If you want to get involved feel free to leave feedback here or: [Discord Server](https://discord.gg/nSAveSC), [Subreddit](https://www.reddit.com/r/Stackweaver), [Twitter](https://twitter.com/stackweaver), [Facebook](https://www.facebook.com/stackweaver).
 
-Thanks!
+Thanks!  
 Damien.
 
 ---
