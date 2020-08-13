@@ -8,7 +8,7 @@ The goal is to do this collaboratively with the community so it makes as few ass
 
 If you have any suggestions or feedback you can use Notion's comment feature on this page.
 
-Note: Some items below can be clicked for related resources.
+Note: Some items below can be clicked for related resources (non-biased and official where possible).
 
 ---
 ## Web Development Outline
@@ -17,21 +17,44 @@ Note: Some items below can be clicked for related resources.
 - General Web Development
     - Environment
         - Local, staging, production
+        
     - Development Tools
-        - Editors, IDEs
+        - Editors
+            - [Vim](https://www.vim.org/)
+            - [Emacs](https://www.gnu.org/software/emacs/)
+            - [Sublime](https://www.sublimetext.com/)
+            - [Atom](https://atom.io/)
+        - IDEs
+            - [Visual Studio](https://visualstudio.microsoft.com/)
+            - [Eclipse](https://www.eclipse.org/)
+            - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+            
     - Testing
-        - Unit, integration, functional, acceptance, perf, load, propert-based
-        - Granularity
+        - Resources
+            - [softwaretestingfundamentals.com](http://softwaretestingfundamentals.com)
+        - Types
+            - [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
+            - [Integration Testing](https://en.wikipedia.org/wiki/Integration_testing)
+            - [Functional Testing](https://en.wikipedia.org/wiki/Functional_testing)
+            - [Acceptance Testing](https://en.wikipedia.org/wiki/Acceptance_testing#Acceptance_testing_in_extreme_programming)
+            - [Performance Testing](https://en.wikipedia.org/wiki/Software_performance_testing)
     - Debugging
         - Skills
-            - Asking Questions
+            - [Asking Good Questions](https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/How_to_ask_a_software_question)
             - Research
+            
     - Workflow
         - Productivity
-    - Version Control
+        
+    - [Version Control](https://en.wikipedia.org/wiki/Version_control)
+        - [Git](https://git-scm.com/)
+        - [Subversion](https://subversion.apache.org/)
+        - [Mecurial](https://www.mercurial-scm.org/)
+        - [Perforce](https://www.perforce.com/)
+        
     - Package management
-        - Versioning
-            - Semantic Versions
+        - [Semantic Versioning](https://semver.org/)
+        
     - Virtualisation
         - VPS
         - VirtualBox/Vagrant/VMWare
