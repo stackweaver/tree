@@ -4,11 +4,11 @@ This page attempts to create a nested structure of all aspects of web developmen
 
 **Why?**
 
-It is being built and integrated into an educational platform for full-stack development called Stackweaver ([contact on Discord](https://discord.gg/nSAveSC)). This outline is central to how the platform itself will be structured; it will inform a full-stack curriculum and web docs (similar to MDN).
+It is being built and integrated into an educational platform for full-stack development called Stackweaver. This outline is central to how the platform itself will be structured; it will inform a full-stack curriculum and web docs (similar to MDN).
 
 It will eventually be enhanced through features such as sandboxes, discussions, collaborative learning and mentoring. 
 
-If you want to get involved feel free to contact here (issue), on [Reddit](https://www.reddit.com/user/StackWeaver) or [@stackweaver](https://twitter.com/stackweaver) on Twitter.
+If you want to get involved feel free to contact: [Discord Server](https://discord.gg/nSAveSC), [Subreddit](https://www.reddit.com/r/Stackweaver), [Twitter](https://twitter.com/stackweaver), [Facebook](https://www.facebook.com/stackweaver).
 
 ---
 
