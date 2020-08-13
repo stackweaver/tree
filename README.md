@@ -6,7 +6,7 @@ The links are safe to click and lead to official resources where possible.
 
 **Why?**
 
-It is being built and integrated into an educational platform for full-stack development called Stackweaver. It is ever-evolving because it will be updated as the platform is built and grown. It will be used as a central, public, canonical map. It will inform the full-stack curriculum, community structure, web docs (similar to MDN).
+It is being built and integrated into an educational platform for full-stack development called Stackweaver. It is ever-evolving because it will be used and developed internally as the platform is built and grown. It will come to inform the structure of many features on the platform, including the full-stack curriculum, community structure, web docs (similar to MDN).
 
 If you want to get involved feel free to leave feedback here or: [Discord Server](https://discord.gg/nSAveSC), [Subreddit](https://www.reddit.com/r/Stackweaver), [Twitter](https://twitter.com/stackweaver), [Facebook](https://www.facebook.com/stackweaver).
 
