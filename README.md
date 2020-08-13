@@ -39,13 +39,19 @@ Note: Some items below can be clicked for related resources (non-biased and offi
         - [Functional Testing](https://en.wikipedia.org/wiki/Functional_testing)
         - [Acceptance Testing](https://en.wikipedia.org/wiki/Acceptance_testing#Acceptance_testing_in_extreme_programming)
         - [Performance Testing](https://en.wikipedia.org/wiki/Software_performance_testing)
+        - [Load Testing](https://en.wikipedia.org/wiki/Load_testing)
         
 - Debugging
     - Skills
         - [Asking Good Questions](https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/How_to_ask_a_software_question)
+        - [Bug Reports](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines)
+
+- Security
+    - Encryption
 
 - Workflow
     - Productivity
+    - Estimation
 
 - [Version Control](https://en.wikipedia.org/wiki/Version_control)
     - [Git](https://git-scm.com/)
@@ -57,13 +63,16 @@ Note: Some items below can be clicked for related resources (non-biased and offi
     - [Semantic Versioning](https://semver.org/)
 
 - Virtualisation
-    - VPS
-    - VirtualBox/Vagrant/VMWare
-    - Containers/Docker (also in infrastructure)
-        - Kubernetes, Nomad, Swarm
+    - [VPS](https://en.wikipedia.org/wiki/Virtual_private_server)
+    - VirtualBox / Vagrant / VMWare
+    - Containers (see infrastructure section below)
 
 - Programming
     - Principles
+    - [Design Patterns](https://github.com/kamranahmedse/design-patterns-for-humans)
+    - Profiling
+    - Refactoring
+    - Benchmarking
     - Paradigms
         - Object-Oriented Programming (OOP)
         - Functional Programming (FP)
@@ -77,23 +86,27 @@ Note: Some items below can be clicked for related resources (non-biased and offi
         - Go
 
 - Design & Architecture
-    - DDD
-    - 12 Factor App
-    - Client/Server
-    - Serverless
+    - [Domain-Driven Design (DDD)](https://en.wikipedia.org/wiki/Domain-driven_design)
+    - [12 Factor App](https://12factor.net/)
+    - [Client/Server Model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+    - [Serverless](https://en.wikipedia.org/wiki/Serverless_computing)
 
-- Feedback
+- Collaboration
     - Code Reviews
-    - Project Critiques
 
-- Localization
+- [Localization/i18n](https://en.wikipedia.org/wiki/Internationalization_and_localization)
     - [gettext](https://www.gnu.org/software/gettext/)
+    - Geolocation
 
 - Data
     - Formats
         - JSON
         - XML
         - YAML
+        
+-Legal
+    - Software Licensing
+    - Copyright
         
 ### Frontend
 
@@ -172,15 +185,13 @@ Note: Some items below can be clicked for related resources (non-biased and offi
         - Jest
         - Cyrpress
         - Enzyme
-        - Types
-            - Unit
-            - Integration
-            - Functional
+        - Selenium
     - Type Checkers
         - TypeScript
         - Flow
 
 - Client
+    - Compatibility
     - Progressive Web Apps
         - PRPL Pattern
         - RAIL Model
@@ -209,18 +220,27 @@ Note: Some items below can be clicked for related resources (non-biased and offi
     - Node
     - APIs
     - Static site generators
-- Other programming languages
-    - Python, Java, C#, Ruby, Go
+    
 - Frameworks
-    - Django
-    - Ruby on Rails
-    - Express
-    - .NET
-    - Spring
-- Authentication & Authorisation
+    - Python: Django
+    - Ruby: Ruby on Rails
+    - JavaScript: Express
+    - C#: .NET
+    - Java: Spring
+    
+- Web Servers
+    - Apache
+    - Nginx
+    
 - Security
+    - Authentication
+    - Authorisation
+        - Framework
+            - OAuth2
+
 - Devops
     - Continuous Integration (and Continuous Delivery)
+    
 - Systems
     - Windows
         - Command Line
@@ -228,8 +248,10 @@ Note: Some items below can be clicked for related resources (non-biased and offi
         - Terminal
         - Scripting
             - Bash
+            
 - Performance
     - Caching
+    
 - Databases
     - RDBMSs
         - PostgreSQL
@@ -239,33 +261,44 @@ Note: Some items below can be clicked for related resources (non-biased and offi
         - Redis
         - MongoDB
     - Indexing
+    - [Data Warehousing](https://en.wikipedia.org/wiki/Data_warehouse)
     - Tools
         - PHPMyAdmin, DBeaver
+        
 - Architecture
     - Service-Oriented
     - Microservices
     - Monolith
     - Scalability
+    
 - Infrastructure
     - Automation
         - Ansible
         - Chef
         - Puppet
         - Terraform
+    - Jobs/Workers
+        - Job Scheduling
+            - [Cron](https://en.wikipedia.org/wiki/Cron)
+        - Job Queues
     - Monitoring
     - Containers
         - Orchestrators
             - Kubernetes
             - Nomad
             - Docker Swarm
-    - Streams
-        - Kafka
+    - Communication
+        - Message Queues
+        - Message Systems
+            - RabbitMQ
+            - Kafka
     - ETL (extract, transform, load)
     - Logging
     - Performance
         - Load Testing
     - Security
         - Virtual Private Networks
+        - TLS
         - Penetration Testing
         - Authentication
             - Devices
