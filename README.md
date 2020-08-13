@@ -1,14 +1,17 @@
 # Full-Stack Web Development Outline
 
-This page attempts to create a nested structure of all aspects of web development. It will be progressively improved based on community feedback. The links are safe to click and lead to official resources where possible.
+Below is an ever-evolving nested structure of all aspects of web development. It is always a WIP so as to account for the constant change. For brevity, many technology lists are limited to the most popular and reputable.
+
+The links are safe to click and lead to official resources where possible.
 
 **Why?**
 
-It is being built and integrated into an educational platform for full-stack development called Stackweaver. This outline is central to how the platform itself will be structured; it will inform the full-stack curriculum, community structure and and web docs (similar to MDN).
+It is being built and integrated into an educational platform for full-stack development called Stackweaver. It is ever-evolving because it will be updated as the platform is built and grown. It will be used as a central, public, canonical map. It will inform the full-stack curriculum, community structure, web docs (similar to MDN).
 
-It will eventually be enhanced through features such as sandboxes, discussions, collaborative learning and mentoring. 
+If you want to get involved feel free to leave feedback here or: [Discord Server](https://discord.gg/nSAveSC), [Subreddit](https://www.reddit.com/r/Stackweaver), [Twitter](https://twitter.com/stackweaver), [Facebook](https://www.facebook.com/stackweaver).
 
-If you want to get involved feel free to contact: [Discord Server](https://discord.gg/nSAveSC), [Subreddit](https://www.reddit.com/r/Stackweaver), [Twitter](https://twitter.com/stackweaver), [Facebook](https://www.facebook.com/stackweaver).
+Thanks!
+Damien.
 
 ---
 
