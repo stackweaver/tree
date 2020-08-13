@@ -11,8 +11,6 @@ It will eventually be enhanced through features such as sandboxes, discussions, 
 If you want to get involved feel free to contact here (issue), on [Reddit](https://www.reddit.com/user/StackWeaver) or [@stackweaver](https://twitter.com/stackweaver) on Twitter.
 
 ---
-## Web Development Outline
----
 
 ### General
 
