@@ -14,7 +14,7 @@ Note: Some items below can be clicked for related resources (non-biased and offi
 ## Web Development Outline
 ---
 
-- General Web Development
+- **General Web Development**
     - Environment
         - Local, staging, production
         
@@ -63,25 +63,41 @@ Note: Some items below can be clicked for related resources (non-biased and offi
 
     - Programming
         - Principles
-        - OOP
+        - Paradigms
+            - Object-Oriented Programming (OOP)
+            - Functional Programming (FP)
+            - Procedural Programming
+        - Languages
+            - Java
+            - JavaScript
+            - Python
+            - C#
+            - Ruby
+            - Go
+            
     - Design & Architecture
         - DDD
         - 12 Factor App
         - Client/Server
         - Serverless
+        
     - Feedback
         - Code Reviews
         - Project Critiques
+        
     - Localization
+        - [gettext](https://www.gnu.org/software/gettext/)
+        
     - Data
         - Formats
             - JSON
             - XML
             - YAML
-- Frontend
-    - [UX](https://www.notion.so/UX-eb96e3283423481fa8f93606c25aa934)
+- **Frontend**
+    - UX
         - Navigation
         - Information Architecture
+        
     - HTML
         - Syntax
         - Elements and attributes
@@ -90,6 +106,7 @@ Note: Some items below can be clicked for related resources (non-biased and offi
         - Template engines
         - SEO
         - Accessibility
+        
     - CSS
         - Syntax
         - Attributes and values
@@ -117,6 +134,7 @@ Note: Some items below can be clicked for related resources (non-biased and offi
         - CSS in JS
             - Styled Components
             - CSS Modules
+            
     - JavaScript
         - Syntax
         - Control Structures
@@ -150,12 +168,15 @@ Note: Some items below can be clicked for related resources (non-biased and offi
         - Type Checkers
             - TypeScript
             - Flow
+            
     - Development Tools
+        - Browser Console ([Chrome](https://developers.google.com/web/tools/chrome-devtools/console), [Firefox](https://developer.mozilla.org/en-US/docs/Tools/Browser_Console))
         - Task runners
             - NPM scripts
             - Gulp
         - Module Bundlers
             - Webpack
+            
     - Client
         - Progressive Web Apps
             - PRPL Pattern
@@ -174,10 +195,12 @@ Note: Some items below can be clicked for related resources (non-biased and offi
             - NativeScript
         - Desktop
             - Electron
-- Mobile
+            
+- **Mobile**
     - Operating Systems
         - Android
-- Backend
+        
+- **Backend**
     - JavaScript
         - Server-side rendering
         - Node
