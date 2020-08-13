@@ -1,5 +1,3 @@
-# developer-docs
-
 **Hi!**
 
 This page attempts to aid navigation of web dev by exploring it through a nested structure. It is being built and integrated into an educational platform for full-stack development called Stackweaver ([contact on Discord](https://discord.gg/nSAveSC)).
