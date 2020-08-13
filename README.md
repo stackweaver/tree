@@ -1,12 +1,12 @@
 # Full-Stack Web Development Tree
 
-Below is an ever-evolving tree of all aspects of web development. For brevity, many technology lists are limited to the most popular and highly regarded. This will be followed up with other data formats.
+Below is an ever-evolving tree of all aspects of web development. For brevity, many technology lists are limited to the most popular and highly regarded.
 
 The links are safe to click and lead to official resources where possible.
 
 **Why?**
 
-There are many disparate sources to help developers navigate through web development. This aims to centralise a useful and comprehensive structure. Below is only an example before it is converted into different data formats for ease of parsing.
+There are many disparate sources to help developers navigate through web development. This aims to centralise a useful and comprehensive structure. Below is only an example before it is converted into other formats such as JSON, YAML and XML.
 
 Internally, it is being built and integrated into an educational platform for full-stack development called Stackweaver. It is ever-evolving because it will be used and developed as the platform is built and grown. It can also [evolve through PRs](https://github.com/stackweaver/developer-docs/pulls) :) It will come to inform the structure of many features including the full-stack curriculum, web docs (like MDN) and community structure.
 
